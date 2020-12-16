@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
-![Stats](https://github-readme-stats.vercel.app/api?username=yiwenlong&include_all_commits=true&hide_border=true&theme=graywhite) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yiwenlong&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=4)
+![Stats](https://github-readme-stats.vercel.app/api?username=yiwenlong&include_all_commits=true&hide_border=true&theme=graywhite) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yiwenlong/yiwenlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
